@@ -7,4 +7,7 @@ As part of my Data Mining coursework, I have created this repository to display 
 5. Anomaly Detection - Anomaly dataset
 6. Association Mining - Germany Market Basket dataset
 
-The walkthrough videos for the same will be attached once it is uploaded to YouTube successfully.
+For a walkthrough of the notebooks, refer the following YouTube videos:
+1. [Regression & Classification](https://youtu.be/GZTmRp87uzY?si=sKAN2xa0kvFX1Zyn)
+
+The walkthrough videos for others will be attached once it is uploaded to YouTube successfully.
