@@ -12,6 +12,6 @@ As part of my Data Mining coursework, I have created this repository to display 
 For a walkthrough of the notebooks, refer the following YouTube videos:
 1. [Regression & Classification](https://youtu.be/GZTmRp87uzY)
 2. [Clustering, Anomaly Detection & Association Mining](https://youtu.be/40yD3J9s-ng)
-3. [Time Series]()
+3. [Time Series](https://youtu.be/vOf27sVH-DQ)
 
 The walkthrough videos for others will be attached once it is uploaded to YouTube successfully.
